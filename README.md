@@ -9,9 +9,9 @@
 - [Why EcoPulp](#why-ecopulp)
 - [How It Works](#how-it-works)
 - [Impact](#impact)
-- [Financials](#financials)
+
 - [Get Involved](#get-involved)
-- [Contact Us](#contact-us)
+
 
 ---
 
