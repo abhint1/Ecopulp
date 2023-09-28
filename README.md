@@ -5,7 +5,6 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Team Members](#team-members)
 - [The Need](#the-need)
 - [Our Solution](#our-solution)
 - [Why EcoPulp](#why-ecopulp)
@@ -20,18 +19,6 @@
 ## Introduction
 
 At EcoPulp, we are change-makers committed to making a difference. We care deeply for our planet and believe in taking action to address critical environmental and social issues. Our mission is to combat climate change, reduce waste, and empower marginalized communities by turning waste paper into sustainable notebooks.
-
----
-
-## Team Members
-
-Meet the passionate individuals behind EcoPulp:
-
-1. **Abhishek Nath Tiwari**
-2. **Abhinay Prakash**
-3. **Ankit Kumar Singh**
-4. **Khyati Gupta**
-5. **Priya Chaudhary**
 
 ---
 
