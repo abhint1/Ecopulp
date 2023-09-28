@@ -1,7 +1,6 @@
 # Ecopulp
 # EcoPulp: Turning Waste Paper into Sustainable Notebooks and Usefull Products
 
-![EcoPulp Logo](insert_logo_image_url_here)
 
 ## Table of Contents
 - [Introduction](#introduction)
